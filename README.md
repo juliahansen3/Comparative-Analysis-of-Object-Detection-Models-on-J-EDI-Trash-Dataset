@@ -1,3 +1,4 @@
+**Note this project was done as a project for a computer vision class and was run on our class server**
 ## YOLO Model:
 Our most recent and updated YOLO v11 script is located in the yolo_attempt8_25_epochs_batchsize_2. This folder contains the results,
 the best model, and the script for running the model. To run this model you must source our custom environment using the command,
