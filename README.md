@@ -15,7 +15,7 @@ log the output to a text file.  Also run "tensorboard --logdir <output path> --p
 up TensorBoard which you can use to visualize your results in a separate window. If using a server, make sure to  forward the 
 port on your local machine. 
 
-## Misc: 
+## Inference: 
 For both of the models mentioned above we have commented out the lines used to download our dataset to the server and removed the 
 associated API keys since the data exists in each folder under the name "underwater_plastics_og_data-1". Uncomment this out if you wish to download the data.
 
